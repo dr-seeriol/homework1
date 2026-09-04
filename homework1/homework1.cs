@@ -54,6 +54,7 @@ namespace homework1
 
             try
             {
+
                 string firstName = firstBox.Text;
                 string lastName = lastBox.Text;
 
